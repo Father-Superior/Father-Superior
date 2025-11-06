@@ -1,4 +1,4 @@
-# 💻 Nikhil Rajput | Developer Portfolio
+# 💻 Hi, Nikhil here !!
 
 <h3 align="center">🚀 Passionate Developer | Python & C++ Enthusiast | Problem Solver</h3>
 
@@ -32,18 +32,18 @@ I'm a passionate developer and student with a strong focus on Python and C++ pro
 
 ## 🚀 Featured Projects
 
-### 🎯 Game Development
-- **Hangman Game** - Classic word-guessing game with multiple difficulty levels
-- **Blackjack Game** - Casino card game with betting system and AI dealer
+### 🎮 Games
+- 🎯 **Hangman Game**
+- ♠️ **Blackjack Game**
 
-### 🔐 Security & Utilities
-- **Password Manager** - Secure credential storage with encryption
-- **Password Generator** - Strong customizable password creation tool
-- **IP Address Generator** - Random valid IPv4 address generator
+### 🔒 Security Tools
+- 🔐 **Password Manager**
+- 🔑 **Password Generator**
+- 🌐 **IP Address Generator**
 
-### 💼 Management Systems
-- **Bank Management System** - Complete banking operations simulator
-- **Library Management System** - Book tracking and user management system
+### 💼 Systems
+- 🏦 **Bank Management System**
+- 📚 **Library Management System**
 
 ---
 
@@ -68,9 +68,6 @@ I'm a passionate developer and student with a strong focus on Python and C++ pro
 <p align="center">
   <a href="https://github.com/Father-Superior" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:nikhil.ghuleofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
