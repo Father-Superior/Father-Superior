@@ -85,7 +85,4 @@ I'm a passionate developer and student with a strong focus on Python and C++ pro
 
 <div align="center">
 
-
-**"The only way to learn a new programming language is by writing programs in it."** - Dennis Ritchie
-
 </div>
