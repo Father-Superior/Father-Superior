@@ -2,6 +2,7 @@
 
 <h3 align="center">🚀 Passionate Developer | Python & C++ Enthusiast | Problem Solver</h3>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Hello+World!!;Welcome+to+my+GitHub!!;Code+With+Purpose;Learn+Build+Repeat;Innovate+Every+Day" alt="Typing SVG" />
 </p>
@@ -15,6 +16,7 @@ I'm a passionate developer and student with a strong focus on Python and C++ pro
 - 🔭 I'm currently working on: **Advanced Python projects and algorithms**
 - 📫 How to reach me: **nikhil.ghuleofficial@gmail.com** 
 
+---
 
 ## 🛠️ Tech Stack & Tools
 
@@ -56,8 +58,10 @@ I'm a passionate developer and student with a strong focus on Python and C++ pro
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Father-Superior&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Father-Superior&theme=radical&hide_border=true&background=00000000" width="48%"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Father-Superior&theme=radical&hide_border=true&background=00000000" width="48%"/>
 </div>
+
+---
 
 ## 💡 Programming Philosophy
 
@@ -76,6 +80,7 @@ I'm a passionate developer and student with a strong focus on Python and C++ pro
 ---
 
 <div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHlucm53eW83Ynd2dXExemxtcDB3aHc3dHRtZ2E1NDNpc3B5YnZjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" alt="Coding Animation" width="500"/>
   <p>⭐ If you like my work, give it a star! ⭐</p>
   <p>Thanks for visiting! 😊</p>
 </div>
