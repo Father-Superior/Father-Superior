@@ -70,14 +70,8 @@ I'm a passionate developer and student with a strong focus on Python and C++ pro
 <div align="center">
   
   <img src="https://komarev.com/ghpvc/?username=Father-Superior&color=blueviolet&style=flat-square" alt="Profile Views"/>
-  
-  <br>
-  
-  <img src="https://img.shields.io/github/followers/Father-Superior?label=Followers&style=social" alt="GitHub Followers"/>
-  
+    
 </div>
-
----
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHlucm53eW83Ynd2dXExemxtcDB3aHc3dHRtZ2E1NDNpc3B5YnZjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" alt="Coding Animation" width="500"/>
