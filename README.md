@@ -36,9 +36,9 @@ I learn best by building—whether it’s small utilities, logic-based programs,
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
-
-## 🚀 Featured Python Projects
-
+---
+🚀 Featured Python Projects
+---
 ### 🎮 Games & Logic-Based Programs
 - **Rock Paper Scissors (RPS) Game** — Implements conditional logic, randomization, and user interaction  
 - **Number Guessing Game** — Uses loops, conditions, and input validation  
@@ -48,7 +48,6 @@ I learn best by building—whether it’s small utilities, logic-based programs,
 - **Secret Auction Game (v1.0)** — Blind auction system with rule-based winner selection  
 - **Quiz Game (Python)** — Interactive quiz application with scoring system  
 
----
 
 ### 🔐 Security & Utility Tools
 - **Random Password Generator** — Generates secure, customizable passwords  
@@ -57,19 +56,16 @@ I learn best by building—whether it’s small utilities, logic-based programs,
 - **Caesar Cipher** — Implements encryption and decryption using character shifting  
 - **Random IP Address Generator** — Generates valid IP addresses following networking rules  
 
----
 
 ### 🏛️ System-Based Applications
 - **Library Management System** — Manages books, users, and issue/return operations  
 - **Bank Management System** — Simulates core banking features such as account creation and transactions  
 
----
 
 ### 🌐 API-Based Projects
 - **Live Weather Checker** — Fetches and displays real-time weather data using public APIs  
 - **Live Currency Converter** — Converts currencies in real time using exchange-rate APIs  
 
----
 
 ### ⚖️ Rule-Based Engine
 - **VERSUS (Comparison Engine)** — Compares entities based on predefined rules and metrics to determine outcomes  
@@ -82,10 +78,8 @@ I learn best by building—whether it’s small utilities, logic-based programs,
 
 ## 💡 Programming Philosophy
 
-> 🌱 **"1% better every day."**
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Father-Superior&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  🌱 1% better every day.
 </div>
 
 ---
