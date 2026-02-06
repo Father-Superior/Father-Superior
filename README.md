@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Hello+World!!;Welcome+to+my+GitHub+Profile;Code+With+Purpose;Learn+Build+Repeat;Innovate+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Hello+World!!;Welcome+to+my+GitHub+Profile;Progress+Over+Perfection;One+Commit+Closer" alt="Typing SVG" />
 </p>
 
 ---
@@ -72,7 +72,12 @@ My journey in software development is driven by consistency, curiosity, and cont
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHlucm53eW83Ynd2dXExemxtcDB3aHc3dHRtZ2E1NDNpc3B5YnZjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="500"/>
   <p>⭐ If you like my work, consider giving a star or buying me a coffee ☕ ⭐</p>
   <div align="center">
-   [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=nikhildev)](https://www.buymeacoffee.com/nikhildev)
+<div align="center">
+
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=nikhildev&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/nikhildev)
+
+</div>
+
 </div>
   <p>Thanks for visiting — happy coding! 😊</p>
 </div>
