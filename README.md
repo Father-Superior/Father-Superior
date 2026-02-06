@@ -90,7 +90,16 @@ I learn best by building—whether it’s small utilities, logic-based programs,
   <div align="center">
 <div align="center">
 
-[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=nikhildev&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/nikhildev)
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnprMDh3bTFkem1oeGsydmowMWh4NmljMzM2enE3ZXk1OW5vNmw1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/o7RZbs4KAA6tvM4H6j/giphy.gif" 
+       alt="BMC GIF" width="120" />
+
+  <a href="https://www.buymeacoffee.com/nikhildev">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
+         alt="Buy Me A Coffee" width="200" />
+  </a>
+</p>
+
 
 </div>
 
